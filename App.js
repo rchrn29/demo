@@ -8,7 +8,7 @@ export default class App extends Component {
   constructor() {
     super();
     this.state = {
-      fontLoaded: false
+      fontLoaded: true
     };
   }
 
